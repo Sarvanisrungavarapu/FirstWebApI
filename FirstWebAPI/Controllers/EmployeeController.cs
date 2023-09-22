@@ -1,5 +1,4 @@
-﻿using FirstWebAPI.Model;
-using FirstWebAPI.Models;
+﻿using FirstWebAPI.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 

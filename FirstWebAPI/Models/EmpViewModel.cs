@@ -1,4 +1,4 @@
-﻿namespace FirstWebAPI.Model
+﻿namespace FirstWebAPI.Models
 {
     public class EmpViewModel
     {
@@ -8,7 +8,7 @@
         public string Title { get; set; }
         public DateTime BirthDate { get; set; }
         public DateTime HireDate { get; set; }
-        public String City { get; set; } = String.Empty;
+        public string City { get; set; } = string.Empty;
         public int ReportsTo { get; set; }
 
 

@@ -1,6 +1,4 @@
-﻿using FirstWebAPI.Models;
-
-namespace FirstWebAPI.Model
+﻿namespace FirstWebAPI.Models
 {
     public class RepositoryEmployee
     {
